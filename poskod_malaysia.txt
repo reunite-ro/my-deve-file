@@ -1,0 +1,11218 @@
+{
+	"10000": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10050": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10100": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10150": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10200": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10250": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10300": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10350": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10400": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10450": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10460": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10470": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10500": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10502": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10503": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10504": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10505": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10506": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10508": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10512": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10514": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10516": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10518": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10524": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10534": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10538": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10540": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10542": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10546": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10550": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10551": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10552": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10558": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10560": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10564": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10566": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10570": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10576": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10578": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10582": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10590": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10592": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10593": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10594": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10596": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10600": {
+		"bandar": "Butterworth, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10604": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10609": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10610": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10612": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10620": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10622": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10626": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10628": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10634": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10646": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10648": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10660": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10661": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10662": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10668": {
+		"bandar": "",
+		"negeri": "Pulau Pinang"
+	},
+	"10670": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10672": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10673": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10674": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10676": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10690": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10710": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10720": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10730": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10740": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10750": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10760": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10770": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10780": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10790": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10800": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10810": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10820": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10830": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10840": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10850": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10910": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10920": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"10990": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"11000": {
+		"bandar": "Balik Pulau",
+		"negeri": "Pulau Pinang"
+	},
+	"11010": {
+		"bandar": "Balik Pulau",
+		"negeri": "Pulau Pinang"
+	},
+	"11020": {
+		"bandar": "Balik Pulau",
+		"negeri": "Pulau Pinang"
+	},
+	"11050": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"11060": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"11100": {
+		"bandar": "Batu Ferringhi",
+		"negeri": "Pulau Pinang"
+	},
+	"11200": {
+		"bandar": "",
+		"negeri": "Pulau Pinang"
+	},
+	"11300": {
+		"bandar": "Bukit Bendera",
+		"negeri": "Pulau Pinang"
+	},
+	"11400": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"11409": {
+		"bandar": "George Town, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"11500": {
+		"bandar": "Air Itam",
+		"negeri": "Pulau Pinang"
+	},
+	"11600": {
+		"bandar": "",
+		"negeri": "Pulau Pinang"
+	},
+	"11609": {
+		"bandar": "",
+		"negeri": "Pulau Pinang"
+	},
+	"11700": {
+		"bandar": "Tasek Gelugor",
+		"negeri": "Pulau Pinang"
+	},
+	"11800": {
+		"bandar": "",
+		"negeri": "Pulau Pinang"
+	},
+	"11900": {
+		"bandar": "Batu Maung",
+		"negeri": "Pulau Pinang"
+	},
+	"11910": {
+		"bandar": "Bayan Lepas",
+		"negeri": "Pulau Pinang"
+	},
+	"11920": {
+		"bandar": "Bayan Lepas",
+		"negeri": "Pulau Pinang"
+	},
+	"11950": {
+		"bandar": "Bayan Lepas",
+		"negeri": "Pulau Pinang"
+	},
+	"11960": {
+		"bandar": "Batu Maung",
+		"negeri": "Pulau Pinang"
+	},
+	"12000": {
+		"bandar": "Butterworth, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"12100": {
+		"bandar": "Butterworth, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"12200": {
+		"bandar": "Butterworth, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"12300": {
+		"bandar": "Butterworth, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"12700": {
+		"bandar": "Butterworth, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"12710": {
+		"bandar": "Butterworth, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"12720": {
+		"bandar": "Butterworth, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"12990": {
+		"bandar": "Butterworth, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"13000": {
+		"bandar": "Butterworth, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"13009": {
+		"bandar": "Butterworth, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"13020": {
+		"bandar": "Butterworth, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"13050": {
+		"bandar": "Butterworth, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"13100": {
+		"bandar": "",
+		"negeri": "Pulau Pinang"
+	},
+	"13110": {
+		"bandar": "",
+		"negeri": "Pulau Pinang"
+	},
+	"13200": {
+		"bandar": "Kepala Batas",
+		"negeri": "Pulau Pinang"
+	},
+	"13210": {
+		"bandar": "Kepala Batas",
+		"negeri": "Pulau Pinang"
+	},
+	"13220": {
+		"bandar": "Kepala Batas",
+		"negeri": "Pulau Pinang"
+	},
+	"13300": {
+		"bandar": "Tasek Gelugor",
+		"negeri": "Pulau Pinang"
+	},
+	"13310": {
+		"bandar": "Tasek Gelugor",
+		"negeri": "Pulau Pinang"
+	},
+	"13400": {
+		"bandar": "Butterworth, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"13409": {
+		"bandar": "Butterworth, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"13500": {
+		"bandar": "Permatang Kuching",
+		"negeri": "Pulau Pinang"
+	},
+	"13600": {
+		"bandar": "Perai",
+		"negeri": "Pulau Pinang"
+	},
+	"13700": {
+		"bandar": "Perai",
+		"negeri": "Pulau Pinang"
+	},
+	"13800": {
+		"bandar": "Butterworth, Pulau Pinang",
+		"negeri": "Pulau Pinang"
+	},
+	"14000": {
+		"bandar": "Bukit Mertajam",
+		"negeri": "Pulau Pinang"
+	},
+	"14007": {
+		"bandar": "Bukit Mertajam",
+		"negeri": "Pulau Pinang"
+	},
+	"14009": {
+		"bandar": "Bukit Mertajam",
+		"negeri": "Pulau Pinang"
+	},
+	"14020": {
+		"bandar": "Bukit Mertajam",
+		"negeri": "Pulau Pinang"
+	},
+	"14100": {
+		"bandar": "Simpang Empat",
+		"negeri": "Pulau Pinang"
+	},
+	"14101": {
+		"bandar": "Simpang Empat",
+		"negeri": "Pulau Pinang"
+	},
+	"14110": {
+		"bandar": "Simpang Empat",
+		"negeri": "Pulau Pinang"
+	},
+	"14120": {
+		"bandar": "Simpang Empat",
+		"negeri": "Pulau Pinang"
+	},
+	"14200": {
+		"bandar": "Simpang Empat",
+		"negeri": "Pulau Pinang"
+	},
+	"14290": {
+		"bandar": "",
+		"negeri": "Kedah"
+	},
+	"14300": {
+		"bandar": "Nibong Tebal",
+		"negeri": "Pulau Pinang"
+	},
+	"14310": {
+		"bandar": "Nibong Tebal",
+		"negeri": "Pulau Pinang"
+	},
+	"14320": {
+		"bandar": "Nibong Tebal",
+		"negeri": "Pulau Pinang"
+	},
+	"14390": {
+		"bandar": "Bandar Baharu",
+		"negeri": "Kedah"
+	},
+	"14400": {
+		"bandar": "",
+		"negeri": "Pulau Pinang"
+	},
+	"15000": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15050": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15100": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15150": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15159": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15200": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15300": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15350": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15400": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15500": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15502": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15503": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15504": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15505": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15506": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15508": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15512": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15514": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15516": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15517": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15518": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15519": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15520": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15524": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15529": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15532": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15534": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15536": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15538": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15540": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15546": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15548": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15550": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15551": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15556": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15558": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15560": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15564": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15570": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15572": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15576": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15578": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15582": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15586": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15590": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15592": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15594": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15596": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15600": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15604": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15606": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"15608": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15609": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15610": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"15612": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15614": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15616": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15620": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"15622": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15623": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15624": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"15626": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15628": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15630": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15632": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15634": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15644": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15646": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15648": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15658": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15660": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15661": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15662": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"15664": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15670": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15672": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15673": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15674": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15676": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15680": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15690": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15700": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"15710": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15720": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15730": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15740": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15988": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"15990": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"16010": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"16020": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"16030": {
+		"bandar": "Bachok",
+		"negeri": "Kelantan"
+	},
+	"16040": {
+		"bandar": "Wakaf Bharu",
+		"negeri": "Kelantan"
+	},
+	"16050": {
+		"bandar": "Bachok",
+		"negeri": "Kelantan"
+	},
+	"16060": {
+		"bandar": "Bachok",
+		"negeri": "Kelantan"
+	},
+	"16070": {
+		"bandar": "Bachok",
+		"negeri": "Kelantan"
+	},
+	"16080": {
+		"bandar": "Tumpat",
+		"negeri": "Kelantan"
+	},
+	"16090": {
+		"bandar": "Bachok",
+		"negeri": "Kelantan"
+	},
+	"16100": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"16109": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"16150": {
+		"bandar": "Kota Bharu",
+		"negeri": "Kelantan"
+	},
+	"16200": {
+		"bandar": "Tumpat",
+		"negeri": "Kelantan"
+	},
+	"16210": {
+		"bandar": "Tumpat",
+		"negeri": "Kelantan"
+	},
+	"16250": {
+		"bandar": "Wakaf Bharu",
+		"negeri": "Kelantan"
+	},
+	"16300": {
+		"bandar": "Bachok",
+		"negeri": "Kelantan"
+	},
+	"16310": {
+		"bandar": "Bachok",
+		"negeri": "Kelantan"
+	},
+	"16320": {
+		"bandar": "Bachok",
+		"negeri": "Kelantan"
+	},
+	"16400": {
+		"bandar": "",
+		"negeri": "Kelantan"
+	},
+	"16450": {
+		"bandar": "",
+		"negeri": "Kelantan"
+	},
+	"16500": {
+		"bandar": "",
+		"negeri": "Kelantan"
+	},
+	"16600": {
+		"bandar": "",
+		"negeri": "Kelantan"
+	},
+	"16700": {
+		"bandar": "",
+		"negeri": "Kelantan"
+	},
+	"16800": {
+		"bandar": "",
+		"negeri": "Kelantan"
+	},
+	"16810": {
+		"bandar": "",
+		"negeri": "Kelantan"
+	},
+	"17000": {
+		"bandar": "Bandar Pasir Mas",
+		"negeri": "Kelantan"
+	},
+	"17007": {
+		"bandar": "Bandar Pasir Mas",
+		"negeri": "Kelantan"
+	},
+	"17009": {
+		"bandar": "Bandar Pasir Mas",
+		"negeri": "Kelantan"
+	},
+	"17010": {
+		"bandar": "Bandar Pasir Mas",
+		"negeri": "Kelantan"
+	},
+	"17020": {
+		"bandar": "Bandar Pasir Mas",
+		"negeri": "Kelantan"
+	},
+	"17030": {
+		"bandar": "Bandar Pasir Mas",
+		"negeri": "Kelantan"
+	},
+	"17040": {
+		"bandar": "Bandar Pasir Mas",
+		"negeri": "Kelantan"
+	},
+	"17050": {
+		"bandar": "Bandar Pasir Mas",
+		"negeri": "Kelantan"
+	},
+	"17060": {
+		"bandar": "Bandar Pasir Mas",
+		"negeri": "Kelantan"
+	},
+	"17070": {
+		"bandar": "Bandar Pasir Mas",
+		"negeri": "Kelantan"
+	},
+	"17200": {
+		"bandar": "",
+		"negeri": "Kelantan"
+	},
+	"17500": {
+		"bandar": "Tanah Merah, Kelantan",
+		"negeri": "Kelantan"
+	},
+	"17507": {
+		"bandar": "Tanah Merah, Kelantan",
+		"negeri": "Kelantan"
+	},
+	"17509": {
+		"bandar": "Tanah Merah, Kelantan",
+		"negeri": "Kelantan"
+	},
+	"17510": {
+		"bandar": "Tanah Merah, Kelantan",
+		"negeri": "Kelantan"
+	},
+	"17520": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"17600": {
+		"bandar": "",
+		"negeri": "Kelantan"
+	},
+	"17610": {
+		"bandar": "",
+		"negeri": "Kelantan"
+	},
+	"17700": {
+		"bandar": "",
+		"negeri": "Kelantan"
+	},
+	"18000": {
+		"bandar": "Kuala Krai",
+		"negeri": "Kelantan"
+	},
+	"18050": {
+		"bandar": "Kuala Krai",
+		"negeri": "Kelantan"
+	},
+	"18200": {
+		"bandar": "Dabong",
+		"negeri": "Kelantan"
+	},
+	"18300": {
+		"bandar": "Gua Musang",
+		"negeri": "Kelantan"
+	},
+	"18400": {
+		"bandar": "",
+		"negeri": "Kelantan"
+	},
+	"18500": {
+		"bandar": "Machang",
+		"negeri": "Kelantan"
+	},
+	"20000": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20050": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20100": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20200": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20300": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20400": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20500": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20502": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20503": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20504": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20505": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20506": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20508": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20512": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20514": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20516": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20517": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20518": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20519": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20520": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20532": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20534": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20536": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20538": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20540": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20542": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20546": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20548": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20550": {
+		"bandar": "",
+		"negeri": "Terengganu"
+	},
+	"20551": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20552": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20554": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20556": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20560": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20564": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20566": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20568": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20570": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20572": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20576": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20578": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20582": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20586": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20590": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20592": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20596": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20600": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20604": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20606": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20608": {
+		"bandar": "",
+		"negeri": "Terengganu"
+	},
+	"20609": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20610": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20612": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20614": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20618": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20620": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20622": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20626": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20628": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20630": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20632": {
+		"bandar": "",
+		"negeri": "Terengganu"
+	},
+	"20646": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20648": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20656": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20658": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20660": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20661": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20662": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20664": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20668": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20670": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20672": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20673": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20674": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20676": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20680": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20690": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20698": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20700": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20710": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20720": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20900": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20902": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20904": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20906": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20908": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20910": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20912": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20914": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20916": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20918": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20920": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20922": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20924": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20926": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20928": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20930": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"20990": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"21000": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"21009": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"21010": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"21020": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"21030": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"21040": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"21060": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"21070": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"21080": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"21090": {
+		"bandar": "",
+		"negeri": "Terengganu"
+	},
+	"21100": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"21109": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"21200": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"21209": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"21210": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"21220": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"21300": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"21309": {
+		"bandar": "Kuala Terengganu",
+		"negeri": "Terengganu"
+	},
+	"21400": {
+		"bandar": "Bukit Payong",
+		"negeri": "Terengganu"
+	},
+	"21450": {
+		"bandar": "",
+		"negeri": "Terengganu"
+	},
+	"21500": {
+		"bandar": "",
+		"negeri": "Terengganu"
+	},
+	"21600": {
+		"bandar": "Pekan Marang",
+		"negeri": "Terengganu"
+	},
+	"21610": {
+		"bandar": "Pekan Marang",
+		"negeri": "Terengganu"
+	},
+	"21700": {
+		"bandar": "Kuala Berang",
+		"negeri": "Terengganu"
+	},
+	"21800": {
+		"bandar": "Ajil",
+		"negeri": "Terengganu"
+	},
+	"21810": {
+		"bandar": "Ajil",
+		"negeri": "Terengganu"
+	},
+	"21820": {
+		"bandar": "Ajil",
+		"negeri": "Terengganu"
+	},
+	"22000": {
+		"bandar": "Jerteh",
+		"negeri": "Terengganu"
+	},
+	"22010": {
+		"bandar": "Jerteh",
+		"negeri": "Terengganu"
+	},
+	"22020": {
+		"bandar": "Jerteh",
+		"negeri": "Terengganu"
+	},
+	"22100": {
+		"bandar": "Bandar Permaisuri",
+		"negeri": "Terengganu"
+	},
+	"22107": {
+		"bandar": "Bandar Permaisuri",
+		"negeri": "Terengganu"
+	},
+	"22109": {
+		"bandar": "Bandar Permaisuri",
+		"negeri": "Terengganu"
+	},
+	"22110": {
+		"bandar": "Bandar Permaisuri",
+		"negeri": "Terengganu"
+	},
+	"22120": {
+		"bandar": "Bandar Permaisuri",
+		"negeri": "Terengganu"
+	},
+	"22200": {
+		"bandar": "",
+		"negeri": "Terengganu"
+	},
+	"22300": {
+		"bandar": "Kuala Besut",
+		"negeri": "Terengganu"
+	},
+	"22307": {
+		"bandar": "Kuala Besut",
+		"negeri": "Terengganu"
+	},
+	"22309": {
+		"bandar": "Kuala Besut",
+		"negeri": "Terengganu"
+	},
+	"23000": {
+		"bandar": "Kuala Dungun",
+		"negeri": "Terengganu"
+	},
+	"23007": {
+		"bandar": "Kuala Dungun",
+		"negeri": "Terengganu"
+	},
+	"23009": {
+		"bandar": "Kuala Dungun",
+		"negeri": "Terengganu"
+	},
+	"23050": {
+		"bandar": "Kuala Dungun",
+		"negeri": "Terengganu"
+	},
+	"23100": {
+		"bandar": "Paka",
+		"negeri": "Terengganu"
+	},
+	"23200": {
+		"bandar": "",
+		"negeri": "Terengganu"
+	},
+	"23300": {
+		"bandar": "",
+		"negeri": "Terengganu"
+	},
+	"23400": {
+		"bandar": "",
+		"negeri": "Terengganu"
+	},
+	"24000": {
+		"bandar": "Chukai",
+		"negeri": "Terengganu"
+	},
+	"24007": {
+		"bandar": "Chukai",
+		"negeri": "Terengganu"
+	},
+	"24009": {
+		"bandar": "Chukai",
+		"negeri": "Terengganu"
+	},
+	"24050": {
+		"bandar": "",
+		"negeri": "Terengganu"
+	},
+	"24060": {
+		"bandar": "",
+		"negeri": "Terengganu"
+	},
+	"24100": {
+		"bandar": "Kijal",
+		"negeri": "Terengganu"
+	},
+	"24107": {
+		"bandar": "Kijal",
+		"negeri": "Terengganu"
+	},
+	"24109": {
+		"bandar": "Kijal",
+		"negeri": "Terengganu"
+	},
+	"24200": {
+		"bandar": "Kemasik",
+		"negeri": "Terengganu"
+	},
+	"24207": {
+		"bandar": "Kemasik",
+		"negeri": "Terengganu"
+	},
+	"24209": {
+		"bandar": "Kemasik",
+		"negeri": "Terengganu"
+	},
+	"24300": {
+		"bandar": "Kerteh",
+		"negeri": "Terengganu"
+	},
+	"25000": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25050": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25100": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25150": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25200": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25250": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25300": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25350": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25500": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25502": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25503": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25504": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25505": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25506": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25508": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25509": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25512": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25514": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25516": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25517": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25518": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25520": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25524": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25529": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25532": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25534": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25536": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25538": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25540": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25546": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25548": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25550": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25551": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25552": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25556": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25558": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25560": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25564": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25570": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25576": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25578": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25582": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25584": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25586": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25590": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25592": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25594": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25596": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25598": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25600": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25604": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25606": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25608": {
+		"bandar": "Kampung Kuantan",
+		"negeri": "Selangor"
+	},
+	"25609": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25610": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25612": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25614": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25620": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25622": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25626": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25628": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25630": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25632": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25644": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25646": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25648": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25656": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25660": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25661": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25662": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25670": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25672": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25673": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25674": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25676": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25690": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25698": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"25700": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25710": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25720": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25730": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25740": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25750": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"25990": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"26010": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"26040": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"26050": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"26060": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"26070": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"26080": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"26090": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"26100": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"26140": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"26150": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"26170": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"26180": {
+		"bandar": "Kuantan",
+		"negeri": "Pahang"
+	},
+	"26190": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"26200": {
+		"bandar": "Sungai Lembing",
+		"negeri": "Pahang"
+	},
+	"26250": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"26300": {
+		"bandar": "Gambang, Pahang",
+		"negeri": "Pahang"
+	},
+	"26310": {
+		"bandar": "Gambang, Pahang",
+		"negeri": "Pahang"
+	},
+	"26320": {
+		"bandar": "Gambang, Pahang",
+		"negeri": "Pahang"
+	},
+	"26330": {
+		"bandar": "Gambang, Pahang",
+		"negeri": "Pahang"
+	},
+	"26340": {
+		"bandar": "",
+		"negeri": "Johor"
+	},
+	"26350": {
+		"bandar": "Gambang, Pahang",
+		"negeri": "Pahang"
+	},
+	"26360": {
+		"bandar": "Gambang, Pahang",
+		"negeri": "Pahang"
+	},
+	"26370": {
+		"bandar": "Gambang, Pahang",
+		"negeri": "Pahang"
+	},
+	"26400": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"26410": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"26420": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"26430": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"26440": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"26450": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"26460": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"26485": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"26490": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"26500": {
+		"bandar": "Maran",
+		"negeri": "Pahang"
+	},
+	"26600": {
+		"bandar": "Pekan, Pahang",
+		"negeri": "Pahang"
+	},
+	"26607": {
+		"bandar": "Pekan, Pahang",
+		"negeri": "Pahang"
+	},
+	"26609": {
+		"bandar": "Pekan, Pahang",
+		"negeri": "Pahang"
+	},
+	"26610": {
+		"bandar": "Pekan, Pahang",
+		"negeri": "Pahang"
+	},
+	"26620": {
+		"bandar": "Pekan, Pahang",
+		"negeri": "Pahang"
+	},
+	"26630": {
+		"bandar": "Pekan, Pahang",
+		"negeri": "Pahang"
+	},
+	"26640": {
+		"bandar": "Pekan, Pahang",
+		"negeri": "Pahang"
+	},
+	"26650": {
+		"bandar": "Pekan, Pahang",
+		"negeri": "Pahang"
+	},
+	"26660": {
+		"bandar": "Pekan, Pahang",
+		"negeri": "Pahang"
+	},
+	"26680": {
+		"bandar": "Pekan, Pahang",
+		"negeri": "Pahang"
+	},
+	"26690": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"26700": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"26800": {
+		"bandar": "Kuala Rompin",
+		"negeri": "Pahang"
+	},
+	"26810": {
+		"bandar": "Kuala Rompin",
+		"negeri": "Pahang"
+	},
+	"26820": {
+		"bandar": "Kuala Rompin",
+		"negeri": "Pahang"
+	},
+	"26900": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"27000": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"27010": {
+		"bandar": "Jerantut",
+		"negeri": "Pahang"
+	},
+	"27020": {
+		"bandar": "Jerantut",
+		"negeri": "Pahang"
+	},
+	"27030": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"27040": {
+		"bandar": "Jerantut",
+		"negeri": "Pahang"
+	},
+	"27050": {
+		"bandar": "Jerantut",
+		"negeri": "Pahang"
+	},
+	"27060": {
+		"bandar": "Jerantut",
+		"negeri": "Pahang"
+	},
+	"27070": {
+		"bandar": "Jerantut",
+		"negeri": "Pahang"
+	},
+	"27080": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"27090": {
+		"bandar": "Jerantut",
+		"negeri": "Pahang"
+	},
+	"27100": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"27150": {
+		"bandar": "Jerantut",
+		"negeri": "Pahang"
+	},
+	"27200": {
+		"bandar": "Kuala Lipis",
+		"negeri": "Pahang"
+	},
+	"27207": {
+		"bandar": "Kuala Lipis",
+		"negeri": "Pahang"
+	},
+	"27209": {
+		"bandar": "Kuala Lipis",
+		"negeri": "Pahang"
+	},
+	"27210": {
+		"bandar": "Kuala Lipis",
+		"negeri": "Pahang"
+	},
+	"27300": {
+		"bandar": "Benta",
+		"negeri": "Pahang"
+	},
+	"27310": {
+		"bandar": "Benta",
+		"negeri": "Pahang"
+	},
+	"27400": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"27600": {
+		"bandar": "Raub",
+		"negeri": "Pahang"
+	},
+	"27607": {
+		"bandar": "Raub",
+		"negeri": "Pahang"
+	},
+	"27609": {
+		"bandar": "Raub",
+		"negeri": "Pahang"
+	},
+	"27610": {
+		"bandar": "Raub",
+		"negeri": "Pahang"
+	},
+	"27620": {
+		"bandar": "Raub",
+		"negeri": "Pahang"
+	},
+	"27630": {
+		"bandar": "Raub",
+		"negeri": "Pahang"
+	},
+	"27650": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"27660": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"27670": {
+		"bandar": "Raub",
+		"negeri": "Pahang"
+	},
+	"28000": {
+		"bandar": "Temerloh",
+		"negeri": "Pahang"
+	},
+	"28007": {
+		"bandar": "Temerloh",
+		"negeri": "Pahang"
+	},
+	"28009": {
+		"bandar": "Temerloh",
+		"negeri": "Pahang"
+	},
+	"28010": {
+		"bandar": "Temerloh",
+		"negeri": "Pahang"
+	},
+	"28020": {
+		"bandar": "Temerloh",
+		"negeri": "Pahang"
+	},
+	"28030": {
+		"bandar": "Temerloh",
+		"negeri": "Pahang"
+	},
+	"28040": {
+		"bandar": "Temerloh",
+		"negeri": "Pahang"
+	},
+	"28050": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"28100": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"28200": {
+		"bandar": "Triang",
+		"negeri": "Pahang"
+	},
+	"28300": {
+		"bandar": "Triang",
+		"negeri": "Pahang"
+	},
+	"28310": {
+		"bandar": "Triang",
+		"negeri": "Pahang"
+	},
+	"28320": {
+		"bandar": "Triang",
+		"negeri": "Pahang"
+	},
+	"28330": {
+		"bandar": "Triang",
+		"negeri": "Pahang"
+	},
+	"28340": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"28380": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"28400": {
+		"bandar": "Mentakab",
+		"negeri": "Pahang"
+	},
+	"28407": {
+		"bandar": "Mentakab",
+		"negeri": "Pahang"
+	},
+	"28409": {
+		"bandar": "Mentakab",
+		"negeri": "Pahang"
+	},
+	"28500": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"28600": {
+		"bandar": "Karak",
+		"negeri": "Pahang"
+	},
+	"28610": {
+		"bandar": "Karak",
+		"negeri": "Pahang"
+	},
+	"28620": {
+		"bandar": "Karak",
+		"negeri": "Pahang"
+	},
+	"28700": {
+		"bandar": "Bentong",
+		"negeri": "Pahang"
+	},
+	"28707": {
+		"bandar": "Bentong",
+		"negeri": "Pahang"
+	},
+	"28709": {
+		"bandar": "Bentong",
+		"negeri": "Pahang"
+	},
+	"28730": {
+		"bandar": "Bentong",
+		"negeri": "Pahang"
+	},
+	"28740": {
+		"bandar": "Bentong",
+		"negeri": "Pahang"
+	},
+	"28750": {
+		"bandar": "Bentong",
+		"negeri": "Pahang"
+	},
+	"28800": {
+		"bandar": "Lurah Bilut",
+		"negeri": "Pahang"
+	},
+	"30000": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30010": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30020": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30100": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30200": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30250": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30300": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30350": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30450": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30500": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30502": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30503": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30504": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30505": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30506": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30508": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30510": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30512": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30516": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30517": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30518": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30519": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30520": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30524": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30532": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30534": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30536": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30540": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30542": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30546": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30548": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30550": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30551": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30552": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30554": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30556": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30560": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30564": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30570": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30576": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30580": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30582": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30586": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30590": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30592": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30594": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30596": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30600": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30604": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30606": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30609": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30610": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30612": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30614": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30620": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30621": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30622": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30626": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30628": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30630": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30632": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30634": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30644": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30646": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30648": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30656": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30658": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30660": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30661": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30662": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30664": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30668": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30670": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30673": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30674": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30676": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30682": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30690": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30700": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30710": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30720": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30730": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30740": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30750": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30760": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30770": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30780": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30790": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30800": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30810": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30820": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30830": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30840": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30900": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30902": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30904": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30906": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30908": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30910": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30912": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30988": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"30990": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31000": {
+		"bandar": "Batu Gajah, Perak",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31007": {
+		"bandar": "Batu Gajah, Perak",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31009": {
+		"bandar": "Batu Gajah, Perak",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31050": {
+		"bandar": "Sungai Siput (U)",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31100": {
+		"bandar": "Sungai Siput (U)",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31150": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31200": {
+		"bandar": "Chemor",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31250": {
+		"bandar": "Tanjung Rambutan",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31300": {
+		"bandar": "Kampung Kuala Terla",
+		"negeri": "Pahang"
+	},
+	"31350": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31400": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31407": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31409": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31450": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31500": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31550": {
+		"bandar": "Pusing",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31560": {
+		"bandar": "Pusing",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31600": {
+		"bandar": "Gopeng",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31610": {
+		"bandar": "Gopeng",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31650": {
+		"bandar": "Ipoh",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31700": {
+		"bandar": "Malim Nawar",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31750": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31800": {
+		"bandar": "Tanjung Tualang",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31850": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31900": {
+		"bandar": "Kampar",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31907": {
+		"bandar": "Kampar",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31909": {
+		"bandar": "Kampar",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31910": {
+		"bandar": "Kampar",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31920": {
+		"bandar": "Kampar",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"31950": {
+		"bandar": "Mambang Di Awan",
+		"negeri": ""
+	},
+	"32000": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"32040": {
+		"bandar": "Seri Manjung",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"32100": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"32200": {
+		"bandar": "Lumut, Perak",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"32300": {
+		"bandar": "Pulau Pangkor",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"32400": {
+		"bandar": "Ayer Tawar",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"32500": {
+		"bandar": "Changkat Keruing",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"32600": {
+		"bandar": "Bandar Seri Manjung",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"32610": {
+		"bandar": "Bandar Seri Manjung",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"32700": {
+		"bandar": "Pekan Beruas",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"32800": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"32900": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"33000": {
+		"bandar": "Kuala Kangsar",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"33007": {
+		"bandar": "Kuala Kangsar",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"33009": {
+		"bandar": "Kuala Kangsar",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"33010": {
+		"bandar": "Kuala Kangsar",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"33020": {
+		"bandar": "Kuala Kangsar",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"33030": {
+		"bandar": "Kuala Kangsar",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"33040": {
+		"bandar": "Kuala Kangsar",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"33100": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"33200": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"33300": {
+		"bandar": "Gerik",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"33310": {
+		"bandar": "Gerik",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"33320": {
+		"bandar": "Gerik",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"33400": {
+		"bandar": "Lenggong",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"33410": {
+		"bandar": "Lenggong",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"33420": {
+		"bandar": "Lenggong",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"33500": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"33600": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"33700": {
+		"bandar": "Padang Rengas",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"33800": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34000": {
+		"bandar": "Bandar Taiping",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34007": {
+		"bandar": "Bandar Taiping",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34008": {
+		"bandar": "Bandar Taiping",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34009": {
+		"bandar": "Bandar Taiping",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34010": {
+		"bandar": "Bandar Taiping",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34020": {
+		"bandar": "Bandar Taiping",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34030": {
+		"bandar": "Bandar Taiping",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34100": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34120": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34130": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34140": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34200": {
+		"bandar": "Parit Buntar",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34250": {
+		"bandar": "Tanjung Piandang",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34300": {
+		"bandar": "Bagan Serai",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34310": {
+		"bandar": "Bagan Serai",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34350": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34400": {
+		"bandar": "Simpang Empat",
+		"negeri": "Pulau Pinang"
+	},
+	"34500": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34510": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34520": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34600": {
+		"bandar": "Kamunting",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34650": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34700": {
+		"bandar": "Simpang Empat (Semanggol), Perak",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34750": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34800": {
+		"bandar": "Trong",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34850": {
+		"bandar": "Changkat Jering",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34900": {
+		"bandar": "Pantai Remis",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"34950": {
+		"bandar": "Bandar Baharu",
+		"negeri": "Kedah"
+	},
+	"35000": {
+		"bandar": "Tapah",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"35007": {
+		"bandar": "Tapah",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"35009": {
+		"bandar": "Tapah",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"35300": {
+		"bandar": "Chenderiang",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"35350": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"35400": {
+		"bandar": "Tapah Road",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"35500": {
+		"bandar": "Bidor",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"35600": {
+		"bandar": "Sungkai",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"35700": {
+		"bandar": "Trolak",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"35800": {
+		"bandar": "Slim River",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"35820": {
+		"bandar": "Slim River",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"35900": {
+		"bandar": "Tanjung Malim",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"35907": {
+		"bandar": "Tanjung Malim",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"35909": {
+		"bandar": "Tanjung Malim",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"35910": {
+		"bandar": "Tanjung Malim",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"35950": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36000": {
+		"bandar": "Teluk Intan",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36007": {
+		"bandar": "Teluk Intan",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36008": {
+		"bandar": "Teluk Intan",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36009": {
+		"bandar": "Teluk Intan",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36010": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36020": {
+		"bandar": "Teluk Intan",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36030": {
+		"bandar": "Teluk Intan",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36100": {
+		"bandar": "Bagan Datoh",
+		"negeri": ""
+	},
+	"36110": {
+		"bandar": "Teluk Intan",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36200": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36207": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36209": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36300": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36307": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36309": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36400": {
+		"bandar": "Hutan Melintang",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36500": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36600": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36700": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36750": {
+		"bandar": "Chikus",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36800": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"36810": {
+		"bandar": "",
+		"negeri": "Perak Darul Ridzuan"
+	},
+	"39000": {
+		"bandar": "Tanah Rata",
+		"negeri": "Pahang"
+	},
+	"39007": {
+		"bandar": "Tanah Rata",
+		"negeri": "Pahang"
+	},
+	"39009": {
+		"bandar": "Tanah Rata",
+		"negeri": "Pahang"
+	},
+	"39010": {
+		"bandar": "Tanah Rata",
+		"negeri": "Pahang"
+	},
+	"39100": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"39200": {
+		"bandar": "Pekan Ringlet",
+		"negeri": "Pahang"
+	},
+	"40000": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40100": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40150": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40160": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40170": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40200": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40300": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40400": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40450": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40460": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40470": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40500": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40502": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40503": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40505": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40512": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40517": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40520": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40529": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40542": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40548": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40550": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40551": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40560": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40564": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40570": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40572": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40576": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40578": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40582": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40590": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40592": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40594": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40596": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40598": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40604": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40607": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40608": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"40610": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40612": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40620": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40622": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40626": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40632": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40646": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40648": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40660": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40664": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"40670": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40672": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40673": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40674": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40675": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40676": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40680": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40690": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40700": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40702": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40704": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40706": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40708": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40710": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40712": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40714": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40716": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40718": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40720": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40722": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40724": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40726": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40728": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40730": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40732": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40800": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40802": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40804": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40806": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40808": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40810": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"40990": {
+		"bandar": "Shah Alam",
+		"negeri": "Selangor"
+	},
+	"41000": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41050": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41100": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41150": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41200": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41250": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41300": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41400": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41506": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41560": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41586": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41672": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41675": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"41700": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41710": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41720": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41900": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41902": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41904": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41906": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41908": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41910": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41912": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41914": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41916": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41918": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"41990": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"42000": {
+		"bandar": "Pelabuhan Klang",
+		"negeri": "Selangor"
+	},
+	"42009": {
+		"bandar": "Pelabuhan Klang",
+		"negeri": "Selangor"
+	},
+	"42100": {
+		"bandar": "Klang",
+		"negeri": "Selangor"
+	},
+	"42200": {
+		"bandar": "Kapar",
+		"negeri": "Selangor"
+	},
+	"42300": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"42425": {
+		"bandar": "Teluk Panglima Garang",
+		"negeri": "Selangor"
+	},
+	"42500": {
+		"bandar": "Teluk Panglima Garang",
+		"negeri": "Selangor"
+	},
+	"42507": {
+		"bandar": "Teluk Panglima Garang",
+		"negeri": "Selangor"
+	},
+	"42509": {
+		"bandar": "Teluk Panglima Garang",
+		"negeri": "Selangor"
+	},
+	"42600": {
+		"bandar": "Jenjarom",
+		"negeri": "Selangor"
+	},
+	"42610": {
+		"bandar": "Jenjarom",
+		"negeri": "Selangor"
+	},
+	"42700": {
+		"bandar": "Banting, Selangor",
+		"negeri": "Selangor"
+	},
+	"42800": {
+		"bandar": "Tanjung Sepat",
+		"negeri": "Selangor"
+	},
+	"42920": {
+		"bandar": "Pelabuhan Klang",
+		"negeri": "Selangor"
+	},
+	"42940": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"42960": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"43000": {
+		"bandar": "Kajang",
+		"negeri": "Selangor"
+	},
+	"43007": {
+		"bandar": "Kajang",
+		"negeri": "Selangor"
+	},
+	"43009": {
+		"bandar": "Kajang",
+		"negeri": "Selangor"
+	},
+	"43100": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"43200": {
+		"bandar": "Cheras",
+		"negeri": ""
+	},
+	"43207": {
+		"bandar": "Cheras",
+		"negeri": ""
+	},
+	"43300": {
+		"bandar": "Seri Kembangan",
+		"negeri": "Selangor"
+	},
+	"43400": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"43500": {
+		"bandar": "Semenyih",
+		"negeri": "Selangor"
+	},
+	"43558": {
+		"bandar": "Kajang",
+		"negeri": "Selangor"
+	},
+	"43600": {
+		"bandar": "Bangi",
+		"negeri": "Selangor"
+	},
+	"43650": {
+		"bandar": "Bandar Baru Selayang",
+		"negeri": "Selangor"
+	},
+	"43700": {
+		"bandar": "Beranang",
+		"negeri": "Selangor"
+	},
+	"43800": {
+		"bandar": "Dengkil",
+		"negeri": "Selangor"
+	},
+	"43807": {
+		"bandar": "Dengkil",
+		"negeri": "Selangor"
+	},
+	"43809": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"43900": {
+		"bandar": "Sepang",
+		"negeri": "Selangor"
+	},
+	"43950": {
+		"bandar": "Sungai Pelek",
+		"negeri": "Selangor"
+	},
+	"44000": {
+		"bandar": "Kuala Kubu Bharu",
+		"negeri": "Selangor"
+	},
+	"44010": {
+		"bandar": "Kuala Kubu Bharu",
+		"negeri": "Selangor"
+	},
+	"44020": {
+		"bandar": "Kuala Kubu Bharu",
+		"negeri": "Selangor"
+	},
+	"44100": {
+		"bandar": "Kerling",
+		"negeri": "Selangor"
+	},
+	"44110": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"44200": {
+		"bandar": "Bandar Rasa",
+		"negeri": "Selangor"
+	},
+	"44300": {
+		"bandar": "Batang Kali",
+		"negeri": "Selangor"
+	},
+	"45000": {
+		"bandar": "Kuala Selangor",
+		"negeri": "Selangor"
+	},
+	"45100": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"45200": {
+		"bandar": "Sabak Bernam",
+		"negeri": "Selangor"
+	},
+	"45207": {
+		"bandar": "Sabak Bernam",
+		"negeri": "Selangor"
+	},
+	"45209": {
+		"bandar": "Sabak Bernam",
+		"negeri": "Selangor"
+	},
+	"45300": {
+		"bandar": "Sungai Besar",
+		"negeri": "Selangor"
+	},
+	"45400": {
+		"bandar": "Sekinchan",
+		"negeri": "Selangor"
+	},
+	"45500": {
+		"bandar": "Tanjung Karang",
+		"negeri": "Selangor"
+	},
+	"45600": {
+		"bandar": "Bestari Jaya",
+		"negeri": "Selangor"
+	},
+	"45607": {
+		"bandar": "Bestari Jaya",
+		"negeri": "Selangor"
+	},
+	"45609": {
+		"bandar": "Bestari Jaya",
+		"negeri": "Selangor"
+	},
+	"45620": {
+		"bandar": "Bestari Jaya",
+		"negeri": "Selangor"
+	},
+	"45700": {
+		"bandar": "Bukit Rotan",
+		"negeri": ""
+	},
+	"45800": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"46000": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46050": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46100": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46150": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46200": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46300": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46350": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46400": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46506": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46547": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46549": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46551": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46564": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46582": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46598": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46662": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46667": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46668": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46672": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46675": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46692": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"46700": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46710": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46720": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46730": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46740": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46750": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46760": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46770": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46780": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46781": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46782": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46783": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46784": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46785": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46786": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46787": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46788": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46789": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46790": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46791": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46792": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46793": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46794": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46795": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46796": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46797": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46798": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46799": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46800": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46801": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46802": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46803": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46804": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46805": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46806": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46860": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46870": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46960": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46962": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46964": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46966": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46968": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46970": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46972": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46974": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46976": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"46978": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"47000": {
+		"bandar": "Sungai Buloh",
+		"negeri": ""
+	},
+	"47100": {
+		"bandar": "Sungai Buloh",
+		"negeri": ""
+	},
+	"47110": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"47120": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"47130": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"47140": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"47150": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"47160": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"47170": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"47180": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"47190": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"47200": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"47300": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"47301": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"47307": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"47308": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"47400": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"47410": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"47500": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"47507": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"47509": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"47600": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"47610": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"47620": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"47630": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"47640": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"47650": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"47800": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"47810": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"47820": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"47830": {
+		"bandar": "Petaling Jaya",
+		"negeri": "Selangor"
+	},
+	"48000": {
+		"bandar": "Rawang",
+		"negeri": "Selangor"
+	},
+	"48010": {
+		"bandar": "Rawang",
+		"negeri": "Selangor"
+	},
+	"48020": {
+		"bandar": "Rawang",
+		"negeri": "Selangor"
+	},
+	"48050": {
+		"bandar": "Rawang",
+		"negeri": "Selangor"
+	},
+	"48100": {
+		"bandar": "Rawang",
+		"negeri": "Selangor"
+	},
+	"48200": {
+		"bandar": "Serendah",
+		"negeri": "Selangor"
+	},
+	"48300": {
+		"bandar": "Rawang",
+		"negeri": "Selangor"
+	},
+	"49000": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"50000": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50050": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50088": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50100": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50150": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50200": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50250": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50300": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50350": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50400": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50450": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50460": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50470": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50480": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50490": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50500": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50502": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50504": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50505": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50506": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50507": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50508": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50512": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50514": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50515": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50519": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50528": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50529": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50530": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50532": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50534": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50536": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50538": {
+		"bandar": "",
+		"negeri": "Kuala Lumpur"
+	},
+	"50540": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50544": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50546": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50548": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50550": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50551": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50552": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50554": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50556": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50560": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50562": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50564": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50566": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50568": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50572": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50576": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50578": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50580": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50582": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50586": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50588": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50590": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50592": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50594": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50596": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50598": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50599": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50600": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50603": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50604": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50605": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50608": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50609": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50610": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50612": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50614": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50620": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50621": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50622": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50623": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50626": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50632": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50634": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50636": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50638": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50640": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50642": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50644": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50646": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50648": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50650": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50652": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50653": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50656": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50658": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50660": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50661": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50662": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50664": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50666": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50668": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50670": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50672": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50673": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50674": {
+		"bandar": "",
+		"negeri": "Kuala Lumpur"
+	},
+	"50676": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50677": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50678": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50680": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50682": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50684": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50688": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50694": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50700": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50702": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50704": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50706": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50708": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50710": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50712": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50714": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50716": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50718": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50720": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50722": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50724": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50726": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50728": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50730": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50732": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50734": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50736": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50738": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50740": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50742": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50744": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50746": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50748": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50750": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50752": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50754": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50758": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50760": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50762": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50764": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50766": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50768": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50770": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50772": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50774": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50776": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50778": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50780": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50782": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50784": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50786": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50788": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50790": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50792": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50794": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50796": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50798": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50800": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50802": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50804": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50806": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50808": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50810": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50812": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50814": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50816": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50818": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50901": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50902": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50903": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50904": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50906": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50907": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50908": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50909": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50910": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50911": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50912": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50913": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50914": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50915": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50916": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50917": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50918": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50919": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50920": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50921": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50922": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50923": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50924": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50925": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50926": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50927": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50928": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50929": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50930": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50931": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50932": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50933": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50934": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50935": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50936": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50937": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50938": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50939": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50940": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50941": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50942": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50943": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50944": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50945": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50946": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50947": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50948": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50949": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50950": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50988": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50989": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"50990": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"51000": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"51100": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"51200": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"51700": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"51990": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"52000": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"52100": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"52200": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"53000": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"53100": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"53200": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"53300": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"53700": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"53800": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"53990": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"54000": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"54100": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"54200": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55000": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55100": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55200": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55300": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55700": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55710": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55720": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55900": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55902": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55904": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55906": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55908": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55910": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55912": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55914": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55916": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55918": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55920": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55922": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55924": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55926": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55928": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55930": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55932": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55934": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"55990": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"56000": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"56100": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"57000": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"57100": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"57700": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"57990": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"58000": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"58100": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"58200": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"58700": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"58990": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"59000": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"59100": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"59200": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"59700": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"59800": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"59990": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"60000": {
+		"bandar": "Kuala Lumpur",
+		"negeri": "Kuala Lumpur"
+	},
+	"62000": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62007": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62050": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62100": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62150": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62200": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62250": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62300": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62502": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62503": {
+		"bandar": "",
+		"negeri": "Putrajaya"
+	},
+	"62504": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62505": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62506": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62510": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62512": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62514": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62516": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62517": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62518": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62519": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62520": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62522": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62524": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62526": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62527": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62529": {
+		"bandar": "",
+		"negeri": "Putrajaya"
+	},
+	"62530": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62532": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62536": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62540": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62542": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62546": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62550": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62551": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62570": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62574": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62576": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62578": {
+		"bandar": "",
+		"negeri": "Putrajaya"
+	},
+	"62582": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62584": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62590": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62592": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62594": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62596": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62602": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62604": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62605": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62606": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62616": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62618": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62620": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62623": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62624": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62628": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62630": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62632": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62648": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62652": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62654": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62662": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62668": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62670": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62674": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62675": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62676": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62677": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62686": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62690": {
+		"bandar": "",
+		"negeri": "Putrajaya"
+	},
+	"62692": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"62988": {
+		"bandar": "Putrajaya",
+		"negeri": "Putrajaya"
+	},
+	"63000": {
+		"bandar": "Cyberjaya",
+		"negeri": "Selangor"
+	},
+	"63100": {
+		"bandar": "Cyberjaya",
+		"negeri": "Selangor"
+	},
+	"63200": {
+		"bandar": "Cyberjaya",
+		"negeri": "Selangor"
+	},
+	"63300": {
+		"bandar": "Cyberjaya",
+		"negeri": "Selangor"
+	},
+	"64000": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"68000": {
+		"bandar": "Kampong Baharu",
+		"negeri": ""
+	},
+	"68100": {
+		"bandar": "Batu Caves",
+		"negeri": ""
+	},
+	"69000": {
+		"bandar": "Genting Highlands",
+		"negeri": "Pahang"
+	},
+	"70000": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70100": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70200": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70300": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70400": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70450": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70500": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70502": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70503": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70504": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70505": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70506": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70508": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70512": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70516": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70517": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70518": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70532": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70534": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70536": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70540": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70546": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70548": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70550": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70551": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70558": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70560": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70564": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70570": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70572": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70576": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70578": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70582": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70586": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70590": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70592": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70594": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70596": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70600": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70604": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70606": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70608": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70609": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70610": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70620": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70626": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70628": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70632": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70634": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70644": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70646": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70648": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70658": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70664": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70670": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70672": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70673": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70674": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70676": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70690": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70700": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70710": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70720": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70730": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70740": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70750": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"70990": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"71000": {
+		"bandar": "Port Dickson",
+		"negeri": "Negeri Sembilan"
+	},
+	"71007": {
+		"bandar": "Port Dickson",
+		"negeri": "Negeri Sembilan"
+	},
+	"71009": {
+		"bandar": "Port Dickson",
+		"negeri": "Negeri Sembilan"
+	},
+	"71010": {
+		"bandar": "Port Dickson",
+		"negeri": "Negeri Sembilan"
+	},
+	"71050": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"71059": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"71100": {
+		"bandar": "Rantau",
+		"negeri": "Negeri Sembilan"
+	},
+	"71109": {
+		"bandar": "Rantau",
+		"negeri": "Negeri Sembilan"
+	},
+	"71150": {
+		"bandar": "Linggi",
+		"negeri": "Negeri Sembilan"
+	},
+	"71159": {
+		"bandar": "Linggi",
+		"negeri": "Negeri Sembilan"
+	},
+	"71200": {
+		"bandar": "Rantau",
+		"negeri": "Negeri Sembilan"
+	},
+	"71209": {
+		"bandar": "Rantau",
+		"negeri": "Negeri Sembilan"
+	},
+	"71250": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"71259": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"71300": {
+		"bandar": "Rembau",
+		"negeri": "Negeri Sembilan"
+	},
+	"71309": {
+		"bandar": "Rembau",
+		"negeri": "Negeri Sembilan"
+	},
+	"71350": {
+		"bandar": "Kota, Negeri Sembilan",
+		"negeri": "Negeri Sembilan"
+	},
+	"71359": {
+		"bandar": "Kota, Negeri Sembilan",
+		"negeri": "Negeri Sembilan"
+	},
+	"71400": {
+		"bandar": "Rembau",
+		"negeri": "Negeri Sembilan"
+	},
+	"71409": {
+		"bandar": "Rembau",
+		"negeri": "Negeri Sembilan"
+	},
+	"71450": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"71459": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"71500": {
+		"bandar": "Tanjung Ipoh",
+		"negeri": "Negeri Sembilan"
+	},
+	"71509": {
+		"bandar": "Tanjung Ipoh",
+		"negeri": "Negeri Sembilan"
+	},
+	"71550": {
+		"bandar": "Tanjung Ipoh",
+		"negeri": "Negeri Sembilan"
+	},
+	"71559": {
+		"bandar": "Tanjung Ipoh",
+		"negeri": "Negeri Sembilan"
+	},
+	"71600": {
+		"bandar": "Kuala Klawang",
+		"negeri": "Negeri Sembilan"
+	},
+	"71609": {
+		"bandar": "Kuala Klawang",
+		"negeri": "Negeri Sembilan"
+	},
+	"71650": {
+		"bandar": "Kuala Klawang",
+		"negeri": "Negeri Sembilan"
+	},
+	"71659": {
+		"bandar": "Kuala Klawang",
+		"negeri": "Negeri Sembilan"
+	},
+	"71700": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"71707": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"71709": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"71750": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"71759": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"71760": {
+		"bandar": "",
+		"negeri": "Selangor"
+	},
+	"71770": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"71800": {
+		"bandar": "Kampung Baharu Nilai",
+		"negeri": "Negeri Sembilan"
+	},
+	"71807": {
+		"bandar": "Kampung Baharu Nilai",
+		"negeri": "Negeri Sembilan"
+	},
+	"71809": {
+		"bandar": "Kampung Baharu Nilai",
+		"negeri": "Negeri Sembilan"
+	},
+	"71900": {
+		"bandar": "Labu, Negeri Sembilan",
+		"negeri": "Negeri Sembilan"
+	},
+	"71907": {
+		"bandar": "Labu, Negeri Sembilan",
+		"negeri": "Negeri Sembilan"
+	},
+	"71909": {
+		"bandar": "Labu, Negeri Sembilan",
+		"negeri": "Negeri Sembilan"
+	},
+	"71950": {
+		"bandar": "Seremban",
+		"negeri": "Negeri Sembilan"
+	},
+	"71960": {
+		"bandar": "Port Dickson",
+		"negeri": "Negeri Sembilan"
+	},
+	"72000": {
+		"bandar": "Kuala Pilah",
+		"negeri": "Negeri Sembilan"
+	},
+	"72007": {
+		"bandar": "Kuala Pilah",
+		"negeri": "Negeri Sembilan"
+	},
+	"72009": {
+		"bandar": "Kuala Pilah",
+		"negeri": "Negeri Sembilan"
+	},
+	"72100": {
+		"bandar": "Bahau",
+		"negeri": "Negeri Sembilan"
+	},
+	"72107": {
+		"bandar": "Bahau",
+		"negeri": "Negeri Sembilan"
+	},
+	"72109": {
+		"bandar": "Bahau",
+		"negeri": "Negeri Sembilan"
+	},
+	"72120": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"72127": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"72129": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"72200": {
+		"bandar": "Batu Kikir",
+		"negeri": "Negeri Sembilan"
+	},
+	"72207": {
+		"bandar": "Batu Kikir",
+		"negeri": "Negeri Sembilan"
+	},
+	"72209": {
+		"bandar": "Batu Kikir",
+		"negeri": "Negeri Sembilan"
+	},
+	"72300": {
+		"bandar": "Simpang Pertang",
+		"negeri": "Negeri Sembilan"
+	},
+	"72307": {
+		"bandar": "Simpang Pertang",
+		"negeri": "Negeri Sembilan"
+	},
+	"72309": {
+		"bandar": "Simpang Pertang",
+		"negeri": "Negeri Sembilan"
+	},
+	"72400": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"72409": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"72500": {
+		"bandar": "Kuala Pilah",
+		"negeri": "Negeri Sembilan"
+	},
+	"72507": {
+		"bandar": "Kuala Pilah",
+		"negeri": "Negeri Sembilan"
+	},
+	"72509": {
+		"bandar": "Kuala Pilah",
+		"negeri": "Negeri Sembilan"
+	},
+	"73000": {
+		"bandar": "Tampin",
+		"negeri": "Negeri Sembilan"
+	},
+	"73007": {
+		"bandar": "Tampin",
+		"negeri": "Negeri Sembilan"
+	},
+	"73009": {
+		"bandar": "Tampin",
+		"negeri": "Negeri Sembilan"
+	},
+	"73100": {
+		"bandar": "Johol",
+		"negeri": "Negeri Sembilan"
+	},
+	"73109": {
+		"bandar": "Johol",
+		"negeri": "Negeri Sembilan"
+	},
+	"73200": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"73207": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"73209": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"73300": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"73309": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"73400": {
+		"bandar": "Gemas",
+		"negeri": "Negeri Sembilan"
+	},
+	"73409": {
+		"bandar": "Gemas",
+		"negeri": "Negeri Sembilan"
+	},
+	"73420": {
+		"bandar": "Gemas",
+		"negeri": "Negeri Sembilan"
+	},
+	"73430": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"73440": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"73450": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"73460": {
+		"bandar": "",
+		"negeri": "Pahang"
+	},
+	"73470": {
+		"bandar": "",
+		"negeri": "Negeri Sembilan"
+	},
+	"73480": {
+		"bandar": "Gemas",
+		"negeri": "Negeri Sembilan"
+	},
+	"73500": {
+		"bandar": "Rompin, Negeri Sembilan",
+		"negeri": "Negeri Sembilan"
+	},
+	"73507": {
+		"bandar": "Rompin, Negeri Sembilan",
+		"negeri": "Negeri Sembilan"
+	},
+	"73509": {
+		"bandar": "Rompin, Negeri Sembilan",
+		"negeri": "Negeri Sembilan"
+	},
+	"75000": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75050": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75100": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75150": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75200": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75250": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75260": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75300": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75350": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75400": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75450": {
+		"bandar": "Ayer Keroh",
+		"negeri": "Melaka"
+	},
+	"75460": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75500": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75502": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75503": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75504": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75505": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75506": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75508": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75510": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75512": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75514": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75516": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75517": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75518": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75519": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75532": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75536": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75538": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75540": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75542": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75546": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75550": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75551": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75552": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75560": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75564": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75566": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75570": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75572": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75576": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75578": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75582": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75584": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75586": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75590": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75592": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75594": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75596": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75600": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75604": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75606": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75608": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75609": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75610": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75612": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75618": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75620": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75622": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75626": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75628": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75630": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75632": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75646": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75648": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75662": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75668": {
+		"bandar": "",
+		"negeri": "Melaka"
+	},
+	"75670": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75672": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75673": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75674": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75676": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75690": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75700": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75710": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75720": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75730": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75740": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75750": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75760": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75900": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75902": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75904": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75906": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75908": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75910": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75912": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75914": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75916": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75918": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"75990": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"76100": {
+		"bandar": "Durian Tunggal",
+		"negeri": "Melaka"
+	},
+	"76109": {
+		"bandar": "Durian Tunggal",
+		"negeri": "Melaka"
+	},
+	"76200": {
+		"bandar": "",
+		"negeri": "Melaka"
+	},
+	"76300": {
+		"bandar": "Sungai Udang",
+		"negeri": "Melaka"
+	},
+	"76301": {
+		"bandar": "",
+		"negeri": "Melaka"
+	},
+	"76400": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"76409": {
+		"bandar": "",
+		"negeri": "Melaka"
+	},
+	"76450": {
+		"bandar": "Melaka",
+		"negeri": "Melaka"
+	},
+	"77000": {
+		"bandar": "Jasin",
+		"negeri": "Melaka"
+	},
+	"77007": {
+		"bandar": "Jasin",
+		"negeri": "Melaka"
+	},
+	"77008": {
+		"bandar": "Jasin",
+		"negeri": "Melaka"
+	},
+	"77009": {
+		"bandar": "Jasin",
+		"negeri": "Melaka"
+	},
+	"77100": {
+		"bandar": "Asahan, Melaka",
+		"negeri": "Melaka"
+	},
+	"77109": {
+		"bandar": "Asahan, Melaka",
+		"negeri": "Melaka"
+	},
+	"77200": {
+		"bandar": "Bemban",
+		"negeri": "Melaka"
+	},
+	"77300": {
+		"bandar": "Merlimau",
+		"negeri": "Melaka"
+	},
+	"77309": {
+		"bandar": "Merlimau",
+		"negeri": "Melaka"
+	},
+	"77400": {
+		"bandar": "Sungai Rambai, Melaka",
+		"negeri": "Melaka"
+	},
+	"77409": {
+		"bandar": "Sungai Rambai, Melaka",
+		"negeri": "Melaka"
+	},
+	"77500": {
+		"bandar": "Selandar",
+		"negeri": "Melaka"
+	},
+	"78000": {
+		"bandar": "Alor Gajah",
+		"negeri": "Melaka"
+	},
+	"78009": {
+		"bandar": "Alor Gajah",
+		"negeri": "Melaka"
+	},
+	"78100": {
+		"bandar": "",
+		"negeri": "Melaka"
+	},
+	"78200": {
+		"bandar": "Kuala Sungai Baru",
+		"negeri": "Melaka"
+	},
+	"78300": {
+		"bandar": "Masjid Tanah",
+		"negeri": "Melaka"
+	},
+	"78307": {
+		"bandar": "Masjid Tanah",
+		"negeri": "Melaka"
+	},
+	"78309": {
+		"bandar": "Masjid Tanah",
+		"negeri": "Melaka"
+	},
+	"79000": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79100": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79150": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79200": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79250": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79502": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79503": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79504": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79505": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79511": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79513": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79514": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79517": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79518": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79520": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79521": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79523": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79532": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79538": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79540": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79546": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79548": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79550": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79552": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79555": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79570": {
+		"bandar": "",
+		"negeri": "Kedah"
+	},
+	"79575": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79576": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79592": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79601": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79603": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79605": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79606": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79612": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79626": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79630": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79632": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79646": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79658": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79660": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79680": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79681": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"79683": {
+		"bandar": "Bandar Baru Selesa Jaya",
+		"negeri": "Johor"
+	},
+	"80000": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80050": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80100": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80150": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80200": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80250": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80300": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80350": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80400": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80500": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80502": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80503": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80504": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80505": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80506": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80508": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80514": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80516": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80517": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80518": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80519": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80520": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80532": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80534": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80536": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80538": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80540": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80542": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80546": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80548": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80550": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80552": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80558": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80560": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80564": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80568": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80570": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80576": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80578": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80584": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80586": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80590": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80592": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80594": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80596": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80600": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80604": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80606": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80608": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80612": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80620": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80622": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80626": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80628": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80630": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80632": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80644": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80646": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80648": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80658": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80660": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"80662": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80664": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80668": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80670": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80672": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80673": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80676": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80700": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80710": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80720": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80730": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80900": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80902": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80904": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80906": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80908": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80988": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"80990": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"81000": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"81100": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"81200": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"81300": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"81310": {
+		"bandar": "Johor Bahru",
+		"negeri": "Johor"
+	},
+	"81400": {
+		"bandar": "Senai",
+		"negeri": "Johor"
+	},
+	"81440": {
+		"bandar": "Bandar Tenggara",
+		"negeri": "Johor"
+	},
+	"81450": {
+		"bandar": "",
+		"negeri": "Johor"
+	},
+	"81500": {
+		"bandar": "Pekan Nenas",
+		"negeri": "Johor"
+	},
+	"81550": {
+		"bandar": "Gelang Patah",
+		"negeri": "Johor"
+	},
+	"81600": {
+		"bandar": "Pengerang",
+		"negeri": "Johor"
+	},
+	"81700": {
+		"bandar": "Pasir Gudang",
+		"negeri": "Johor"
+	},
+	"81750": {
+		"bandar": "Masai, Johor",
+		"negeri": "Johor"
+	},
+	"81800": {
+		"bandar": "Ulu Tiram",
+		"negeri": "Johor"
+	},
+	"81850": {
+		"bandar": "Layang-Layang, Johor",
+		"negeri": "Johor"
+	},
+	"81900": {
+		"bandar": "Kota Tinggi",
+		"negeri": "Johor"
+	},
+	"81920": {
+		"bandar": "",
+		"negeri": "Johor"
+	},
+	"81930": {
+		"bandar": "",
+		"negeri": "Johor"
+	},
+	"82000": {
+		"bandar": "Pontian",
+		"negeri": "Johor"
+	},
+	"82100": {
+		"bandar": "",
+		"negeri": "Johor"
+	},
+	"82200": {
+		"bandar": "Benut",
+		"negeri": "Johor"
+	},
+	"82300": {
+		"bandar": "Kukup",
+		"negeri": "Johor"
+	},
+	"83000": {
+		"bandar": "Batu Pahat (bandar)",
+		"negeri": "Johor"
+	},
+	"83100": {
+		"bandar": "Rengit",
+		"negeri": "Johor"
+	},
+	"83200": {
+		"bandar": "Senggarang (Malaysia)",
+		"negeri": "Johor"
+	},
+	"83300": {
+		"bandar": "",
+		"negeri": "Johor"
+	},
+	"83400": {
+		"bandar": "Sri Medan",
+		"negeri": "Johor"
+	},
+	"83500": {
+		"bandar": "",
+		"negeri": "Johor"
+	},
+	"83600": {
+		"bandar": "Semerah",
+		"negeri": "Johor"
+	},
+	"83700": {
+		"bandar": "Yong Peng",
+		"negeri": "Johor"
+	},
+	"84000": {
+		"bandar": "Muar",
+		"negeri": "Johor"
+	},
+	"84150": {
+		"bandar": "Parit Jawa",
+		"negeri": "Johor"
+	},
+	"84200": {
+		"bandar": "Muar",
+		"negeri": "Johor"
+	},
+	"84300": {
+		"bandar": "Bukit Pasir",
+		"negeri": "Johor"
+	},
+	"84400": {
+		"bandar": "Sungai Mati",
+		"negeri": "Johor"
+	},
+	"84500": {
+		"bandar": "",
+		"negeri": "Johor"
+	},
+	"84600": {
+		"bandar": "Pagoh",
+		"negeri": "Johor"
+	},
+	"84700": {
+		"bandar": "",
+		"negeri": "Johor"
+	},
+	"84800": {
+		"bandar": "Bukit Gambir, Johor",
+		"negeri": "Johor"
+	},
+	"84900": {
+		"bandar": "Tangkak",
+		"negeri": "Johor"
+	},
+	"85000": {
+		"bandar": "Segamat",
+		"negeri": "Johor"
+	},
+	"85100": {
+		"bandar": "Batu Enam",
+		"negeri": "Johor"
+	},
+	"85200": {
+		"bandar": "Jementah",
+		"negeri": "Johor"
+	},
+	"85300": {
+		"bandar": "",
+		"negeri": "Johor"
+	},
+	"85400": {
+		"bandar": "Chaah",
+		"negeri": "Johor"
+	},
+	"86000": {
+		"bandar": "Kluang",
+		"negeri": "Johor"
+	},
+	"86100": {
+		"bandar": "",
+		"negeri": "Johor"
+	},
+	"86200": {
+		"bandar": "Simpang Renggam",
+		"negeri": "Johor"
+	},
+	"86300": {
+		"bandar": "Kluang",
+		"negeri": "Johor"
+	},
+	"86400": {
+		"bandar": "Parit Raja",
+		"negeri": "Johor"
+	},
+	"86500": {
+		"bandar": "Bekok (bandar)",
+		"negeri": "Johor"
+	},
+	"86600": {
+		"bandar": "",
+		"negeri": "Johor"
+	},
+	"86700": {
+		"bandar": "Kahang",
+		"negeri": "Johor"
+	},
+	"86800": {
+		"bandar": "Mersing",
+		"negeri": "Johor"
+	},
+	"86810": {
+		"bandar": "Mersing",
+		"negeri": "Johor"
+	},
+	"86900": {
+		"bandar": "Endau",
+		"negeri": "Johor"
+	},
+	"87000": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87010": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87011": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87012": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87013": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87014": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87015": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87016": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87017": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87018": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87019": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87020": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87021": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87022": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87023": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87024": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87025": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87026": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87027": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87028": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87029": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87030": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87031": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87032": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"87033": {
+		"bandar": "Bandar Labuan",
+		"negeri": "Sabah"
+	},
+	"88000": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88100": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88200": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88300": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88400": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88450": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88460": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88500": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88502": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88504": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88505": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88506": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88508": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88510": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88512": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88514": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88516": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88518": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88520": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88526": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88527": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88532": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88534": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88538": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88540": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88546": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88550": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"88551": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"88552": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88554": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88556": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88558": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"88560": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88562": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88564": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88566": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88568": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88570": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88572": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88576": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88580": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88582": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88586": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88590": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88592": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88594": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88596": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88598": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88600": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88602": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88604": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88606": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88608": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88609": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88610": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88612": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88614": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88617": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88618": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88620": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88621": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88622": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88624": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88626": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88628": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"88630": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"88632": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"88634": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88644": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88646": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88648": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88656": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88658": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88660": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"88661": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88662": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88670": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88672": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88673": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88675": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88676": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88680": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88690": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88700": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"88721": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"88722": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"88723": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"88724": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"88725": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"88757": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88758": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88759": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88760": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88761": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88762": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88763": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88764": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88765": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88766": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88767": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88768": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88769": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88770": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88771": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88772": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88773": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88774": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88775": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88776": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88777": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88778": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88779": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88780": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88781": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88782": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88783": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88784": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88785": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88786": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88787": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88788": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88789": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88790": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88800": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88801": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88802": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88803": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88804": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88805": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88806": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88807": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88808": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88809": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88810": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88811": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88812": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88813": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88814": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88815": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88816": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88817": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88818": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88819": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88820": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88821": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88822": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88823": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88824": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88825": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88826": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88827": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88828": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88829": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88830": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88831": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88832": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88833": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88834": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88835": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88836": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88837": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88838": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88839": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88840": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88841": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88842": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88843": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88844": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88845": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88846": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88847": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88848": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88849": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88850": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88851": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88852": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88853": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88854": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88855": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88856": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"88857": {
+		"bandar": "Inanam",
+		"negeri": "Sabah"
+	},
+	"88858": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"88860": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88861": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88862": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88863": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88865": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88866": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88867": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88868": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88869": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88870": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88871": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88872": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88873": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88874": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88875": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88900": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88901": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88902": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88903": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88904": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88905": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88906": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88988": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88990": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88991": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88992": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88993": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88994": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88995": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88996": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88997": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88998": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"88999": {
+		"bandar": "Kota Kinabalu",
+		"negeri": "Sabah"
+	},
+	"89000": {
+		"bandar": "Keningau",
+		"negeri": "Sabah"
+	},
+	"89007": {
+		"bandar": "Keningau",
+		"negeri": "Sabah"
+	},
+	"89008": {
+		"bandar": "Keningau",
+		"negeri": "Sabah"
+	},
+	"89009": {
+		"bandar": "Keningau",
+		"negeri": "Sabah"
+	},
+	"89050": {
+		"bandar": "Kudat",
+		"negeri": "Sabah"
+	},
+	"89057": {
+		"bandar": "Kudat",
+		"negeri": "Sabah"
+	},
+	"89058": {
+		"bandar": "Kudat",
+		"negeri": "Sabah"
+	},
+	"89059": {
+		"bandar": "Kudat",
+		"negeri": "Sabah"
+	},
+	"89100": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"89107": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"89108": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"89109": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"89150": {
+		"bandar": "Kota Belud",
+		"negeri": "Sabah"
+	},
+	"89157": {
+		"bandar": "Kota Belud",
+		"negeri": "Sabah"
+	},
+	"89158": {
+		"bandar": "Kota Belud",
+		"negeri": "Sabah"
+	},
+	"89159": {
+		"bandar": "Kota Belud",
+		"negeri": "Sabah"
+	},
+	"89200": {
+		"bandar": "Tuaran",
+		"negeri": "Sabah"
+	},
+	"89207": {
+		"bandar": "Tuaran",
+		"negeri": "Sabah"
+	},
+	"89208": {
+		"bandar": "Tuaran",
+		"negeri": "Sabah"
+	},
+	"89209": {
+		"bandar": "Tuaran",
+		"negeri": "Sabah"
+	},
+	"89250": {
+		"bandar": "Tamparuli",
+		"negeri": "Sabah"
+	},
+	"89257": {
+		"bandar": "Tamparuli",
+		"negeri": "Sabah"
+	},
+	"89258": {
+		"bandar": "Tamparuli",
+		"negeri": "Sabah"
+	},
+	"89259": {
+		"bandar": "Tamparuli",
+		"negeri": "Sabah"
+	},
+	"89260": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"89300": {
+		"bandar": "Ranau",
+		"negeri": "Sabah"
+	},
+	"89307": {
+		"bandar": "Ranau",
+		"negeri": "Sabah"
+	},
+	"89308": {
+		"bandar": "Ranau",
+		"negeri": "Sabah"
+	},
+	"89309": {
+		"bandar": "Ranau",
+		"negeri": "Sabah"
+	},
+	"89500": {
+		"bandar": "Penampang",
+		"negeri": "Sabah"
+	},
+	"89507": {
+		"bandar": "Penampang",
+		"negeri": "Sabah"
+	},
+	"89508": {
+		"bandar": "Penampang",
+		"negeri": "Sabah"
+	},
+	"89509": {
+		"bandar": "Penampang",
+		"negeri": "Sabah"
+	},
+	"89600": {
+		"bandar": "Papar, Sabah",
+		"negeri": "Sabah"
+	},
+	"89607": {
+		"bandar": "Papar, Sabah",
+		"negeri": "Sabah"
+	},
+	"89608": {
+		"bandar": "Papar, Sabah",
+		"negeri": "Sabah"
+	},
+	"89609": {
+		"bandar": "Papar, Sabah",
+		"negeri": "Sabah"
+	},
+	"89650": {
+		"bandar": "Tambunan",
+		"negeri": "Sabah"
+	},
+	"89657": {
+		"bandar": "Tambunan",
+		"negeri": "Sabah"
+	},
+	"89658": {
+		"bandar": "Tambunan",
+		"negeri": "Sabah"
+	},
+	"89659": {
+		"bandar": "Tambunan",
+		"negeri": "Sabah"
+	},
+	"89700": {
+		"bandar": "Bongawan",
+		"negeri": "Sabah"
+	},
+	"89707": {
+		"bandar": "Bongawan",
+		"negeri": "Sabah"
+	},
+	"89708": {
+		"bandar": "Bongawan",
+		"negeri": "Sabah"
+	},
+	"89709": {
+		"bandar": "Bongawan",
+		"negeri": "Sabah"
+	},
+	"89720": {
+		"bandar": "Membakut",
+		"negeri": "Sabah"
+	},
+	"89727": {
+		"bandar": "Membakut",
+		"negeri": "Sabah"
+	},
+	"89728": {
+		"bandar": "Membakut",
+		"negeri": "Sabah"
+	},
+	"89729": {
+		"bandar": "Membakut",
+		"negeri": "Sabah"
+	},
+	"89740": {
+		"bandar": "Kuala Penyu",
+		"negeri": "Sabah"
+	},
+	"89747": {
+		"bandar": "Kuala Penyu",
+		"negeri": "Sabah"
+	},
+	"89748": {
+		"bandar": "Kuala Penyu",
+		"negeri": "Sabah"
+	},
+	"89749": {
+		"bandar": "Kuala Penyu",
+		"negeri": "Sabah"
+	},
+	"89760": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"89767": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"89768": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"89769": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"89800": {
+		"bandar": "Beaufort",
+		"negeri": "Sabah"
+	},
+	"89807": {
+		"bandar": "Beaufort",
+		"negeri": "Sabah"
+	},
+	"89808": {
+		"bandar": "Beaufort",
+		"negeri": "Sabah"
+	},
+	"89809": {
+		"bandar": "Beaufort",
+		"negeri": "Sabah"
+	},
+	"89850": {
+		"bandar": "Sipitang",
+		"negeri": "Sabah"
+	},
+	"89857": {
+		"bandar": "Sipitang",
+		"negeri": "Sabah"
+	},
+	"89858": {
+		"bandar": "Sipitang",
+		"negeri": "Sabah"
+	},
+	"89859": {
+		"bandar": "Sipitang",
+		"negeri": "Sabah"
+	},
+	"89900": {
+		"bandar": "Tenom",
+		"negeri": "Sabah"
+	},
+	"89907": {
+		"bandar": "Tenom",
+		"negeri": "Sabah"
+	},
+	"89908": {
+		"bandar": "Tenom",
+		"negeri": "Sabah"
+	},
+	"89909": {
+		"bandar": "Tenom",
+		"negeri": "Sabah"
+	},
+	"89950": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"89957": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"89958": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"89959": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"90000": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90009": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90100": {
+		"bandar": "Beluran",
+		"negeri": "Sabah"
+	},
+	"90107": {
+		"bandar": "Beluran",
+		"negeri": "Sabah"
+	},
+	"90109": {
+		"bandar": "Beluran",
+		"negeri": "Sabah"
+	},
+	"90200": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"90300": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90307": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90400": {
+		"bandar": "",
+		"negeri": "Sabah"
+	},
+	"90700": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90701": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90702": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90703": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90704": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90705": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90706": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90707": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90708": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90709": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90711": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90712": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90713": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90714": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90715": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90716": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90717": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90718": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90719": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90720": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90721": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90722": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90723": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90724": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90725": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90726": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90727": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90728": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90729": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90730": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90731": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90732": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90733": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90734": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90735": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90736": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90737": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90738": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90739": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90740": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"90741": {
+		"bandar": "Sandakan",
+		"negeri": "Sabah"
+	},
+	"91000": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91007": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91008": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91009": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91010": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91011": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91012": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91013": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91014": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91015": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91016": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91017": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91018": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91019": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91020": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91021": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91022": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91023": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91024": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91025": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91026": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91027": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91028": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91029": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91030": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91031": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91032": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91033": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91034": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91035": {
+		"bandar": "Tawau",
+		"negeri": "Sabah"
+	},
+	"91100": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91109": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91110": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91111": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91112": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91113": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91114": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91115": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91116": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91117": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91118": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91119": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91120": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91121": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91122": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91123": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91124": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91125": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91126": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91127": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91128": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91150": {
+		"bandar": "Lahad Datu",
+		"negeri": "Sabah"
+	},
+	"91200": {
+		"bandar": "Kunak",
+		"negeri": "Sabah"
+	},
+	"91207": {
+		"bandar": "Kunak",
+		"negeri": "Sabah"
+	},
+	"91209": {
+		"bandar": "Kunak",
+		"negeri": "Sabah"
+	},
+	"91300": {
+		"bandar": "Semporna",
+		"negeri": "Sabah"
+	},
+	"91307": {
+		"bandar": "Semporna",
+		"negeri": "Sabah"
+	},
+	"91308": {
+		"bandar": "Semporna",
+		"negeri": "Sabah"
+	},
+	"91309": {
+		"bandar": "Semporna",
+		"negeri": "Sabah"
+	},
+	"93000": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93010": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93050": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93100": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93150": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93200": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93250": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93300": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93350": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93400": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93450": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93500": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93502": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93503": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93504": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93505": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93506": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93507": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93508": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93514": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93516": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93517": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93518": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93519": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93520": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93527": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93529": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93532": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93540": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93550": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"93551": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"93552": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93554": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93556": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93558": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93560": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93564": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93566": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93570": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93572": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93576": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93578": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93582": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93586": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93590": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93592": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93594": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93596": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93600": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93604": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93606": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93608": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93609": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93610": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93612": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93614": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93618": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93619": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93620": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93626": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93628": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93632": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93634": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93648": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93658": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93660": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93661": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93662": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93668": {
+		"bandar": "",
+		"negeri": ""
+	},
+	"93670": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93672": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93677": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93690": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93694": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93700": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93702": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93704": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93706": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93708": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93710": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93712": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93714": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93716": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93718": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93720": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93722": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93724": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93726": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93728": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93730": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93732": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93734": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93736": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93738": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93740": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93742": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93744": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93746": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93748": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93750": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93752": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93754": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93756": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93758": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93760": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93762": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93764": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93900": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93902": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93904": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93906": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93908": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93910": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93912": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93914": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93916": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"93990": {
+		"bandar": "Kuching",
+		"negeri": "Sarawak"
+	},
+	"94000": {
+		"bandar": "Bau",
+		"negeri": "Sarawak"
+	},
+	"94007": {
+		"bandar": "Bau",
+		"negeri": "Sarawak"
+	},
+	"94009": {
+		"bandar": "Bau",
+		"negeri": "Sarawak"
+	},
+	"94200": {
+		"bandar": "Siburan",
+		"negeri": "Sarawak"
+	},
+	"94300": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"94500": {
+		"bandar": "Lundu",
+		"negeri": "Sarawak"
+	},
+	"94507": {
+		"bandar": "Lundu",
+		"negeri": "Sarawak"
+	},
+	"94509": {
+		"bandar": "Lundu",
+		"negeri": "Sarawak"
+	},
+	"94600": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"94650": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"94700": {
+		"bandar": "Serian",
+		"negeri": "Sarawak"
+	},
+	"94707": {
+		"bandar": "Serian",
+		"negeri": "Sarawak"
+	},
+	"94709": {
+		"bandar": "Serian",
+		"negeri": "Sarawak"
+	},
+	"94750": {
+		"bandar": "Serian",
+		"negeri": "Sarawak"
+	},
+	"94760": {
+		"bandar": "Serian",
+		"negeri": "Sarawak"
+	},
+	"94800": {
+		"bandar": "Simunjan",
+		"negeri": "Sarawak"
+	},
+	"94807": {
+		"bandar": "Simunjan",
+		"negeri": "Sarawak"
+	},
+	"94809": {
+		"bandar": "Simunjan",
+		"negeri": "Sarawak"
+	},
+	"94850": {
+		"bandar": "Sebuyau",
+		"negeri": "Sarawak"
+	},
+	"94900": {
+		"bandar": "Lingga",
+		"negeri": "Sarawak"
+	},
+	"94950": {
+		"bandar": "Pusa, Sarawak",
+		"negeri": "Sarawak"
+	},
+	"95000": {
+		"bandar": "Sri Aman",
+		"negeri": "Sarawak"
+	},
+	"95007": {
+		"bandar": "Sri Aman",
+		"negeri": "Sarawak"
+	},
+	"95008": {
+		"bandar": "Sri Aman",
+		"negeri": "Sarawak"
+	},
+	"95009": {
+		"bandar": "Sri Aman",
+		"negeri": "Sarawak"
+	},
+	"95300": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"95400": {
+		"bandar": "Saratok",
+		"negeri": "Sarawak"
+	},
+	"95407": {
+		"bandar": "Saratok",
+		"negeri": "Sarawak"
+	},
+	"95409": {
+		"bandar": "Saratok",
+		"negeri": "Sarawak"
+	},
+	"95500": {
+		"bandar": "Debak",
+		"negeri": "Sarawak"
+	},
+	"95600": {
+		"bandar": "Spaoh",
+		"negeri": "Sarawak"
+	},
+	"95700": {
+		"bandar": "Betong",
+		"negeri": "Sarawak"
+	},
+	"95707": {
+		"bandar": "Betong",
+		"negeri": "Sarawak"
+	},
+	"95709": {
+		"bandar": "Betong",
+		"negeri": "Sarawak"
+	},
+	"95800": {
+		"bandar": "Engkilili",
+		"negeri": "Sarawak"
+	},
+	"95900": {
+		"bandar": "Lubok Antu",
+		"negeri": "Sarawak"
+	},
+	"96000": {
+		"bandar": "Sibu",
+		"negeri": "Sarawak"
+	},
+	"96007": {
+		"bandar": "Sibu",
+		"negeri": "Sarawak"
+	},
+	"96008": {
+		"bandar": "Sibu",
+		"negeri": "Sarawak"
+	},
+	"96009": {
+		"bandar": "Sibu",
+		"negeri": "Sarawak"
+	},
+	"96100": {
+		"bandar": "Sarikei",
+		"negeri": "Sarawak"
+	},
+	"96107": {
+		"bandar": "Sarikei",
+		"negeri": "Sarawak"
+	},
+	"96108": {
+		"bandar": "Sarikei",
+		"negeri": "Sarawak"
+	},
+	"96109": {
+		"bandar": "Sarikei",
+		"negeri": "Sarawak"
+	},
+	"96150": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"96200": {
+		"bandar": "Daro",
+		"negeri": "Sarawak"
+	},
+	"96250": {
+		"bandar": "Matu",
+		"negeri": "Sarawak"
+	},
+	"96300": {
+		"bandar": "Dalat",
+		"negeri": "Sarawak"
+	},
+	"96307": {
+		"bandar": "Dalat",
+		"negeri": "Sarawak"
+	},
+	"96309": {
+		"bandar": "Dalat",
+		"negeri": "Sarawak"
+	},
+	"96350": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"96400": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"96410": {
+		"bandar": "Mukah",
+		"negeri": "Sarawak"
+	},
+	"96500": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"96507": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"96508": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"96509": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"96600": {
+		"bandar": "Julau",
+		"negeri": "Sarawak"
+	},
+	"96700": {
+		"bandar": "Kanowit",
+		"negeri": "Sarawak"
+	},
+	"96707": {
+		"bandar": "Kanowit",
+		"negeri": "Sarawak"
+	},
+	"96709": {
+		"bandar": "Kanowit",
+		"negeri": "Sarawak"
+	},
+	"96800": {
+		"bandar": "Kapit",
+		"negeri": "Sarawak"
+	},
+	"96807": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"96809": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"96850": {
+		"bandar": "Song, Sarawak",
+		"negeri": "Sarawak"
+	},
+	"96900": {
+		"bandar": "Belaga",
+		"negeri": "Sarawak"
+	},
+	"97000": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"97007": {
+		"bandar": "Bintulu",
+		"negeri": "Sarawak"
+	},
+	"97008": {
+		"bandar": "Bintulu",
+		"negeri": "Sarawak"
+	},
+	"97009": {
+		"bandar": "Bintulu",
+		"negeri": "Sarawak"
+	},
+	"97010": {
+		"bandar": "Bintulu",
+		"negeri": "Sarawak"
+	},
+	"97011": {
+		"bandar": "Bintulu",
+		"negeri": "Sarawak"
+	},
+	"97012": {
+		"bandar": "Bintulu",
+		"negeri": "Sarawak"
+	},
+	"97013": {
+		"bandar": "Bintulu",
+		"negeri": "Sarawak"
+	},
+	"97014": {
+		"bandar": "Bintulu",
+		"negeri": "Sarawak"
+	},
+	"97015": {
+		"bandar": "Bintulu",
+		"negeri": "Sarawak"
+	},
+	"97100": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"97200": {
+		"bandar": "Tatau",
+		"negeri": "Sarawak"
+	},
+	"97300": {
+		"bandar": "Bintulu",
+		"negeri": "Sarawak"
+	},
+	"98000": {
+		"bandar": "Bandar Miri",
+		"negeri": "Sarawak"
+	},
+	"98007": {
+		"bandar": "Bandar Miri",
+		"negeri": "Sarawak"
+	},
+	"98008": {
+		"bandar": "Bandar Miri",
+		"negeri": "Sarawak"
+	},
+	"98009": {
+		"bandar": "Bandar Miri",
+		"negeri": "Sarawak"
+	},
+	"98050": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"98057": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"98058": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"98059": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"98100": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"98107": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"98109": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"98150": {
+		"bandar": "Bekenu",
+		"negeri": "Sarawak"
+	},
+	"98157": {
+		"bandar": "Bekenu",
+		"negeri": "Sarawak"
+	},
+	"98159": {
+		"bandar": "Bekenu",
+		"negeri": "Sarawak"
+	},
+	"98200": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"98300": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"98700": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"98707": {
+		"bandar": "Limbang",
+		"negeri": "Sarawak"
+	},
+	"98708": {
+		"bandar": "Limbang",
+		"negeri": "Sarawak"
+	},
+	"98709": {
+		"bandar": "Limbang",
+		"negeri": "Sarawak"
+	},
+	"98750": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"98800": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"98850": {
+		"bandar": "",
+		"negeri": "Sarawak"
+	},
+	"98857": {
+		"bandar": "Lawas",
+		"negeri": "Sarawak"
+	},
+	"98859": {
+		"bandar": "Lawas",
+		"negeri": "Sarawak"
+	},
+	"01000": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01007": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01009": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01500": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01502": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01503": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01504": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01505": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01506": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01508": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01512": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01514": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01516": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01517": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01518": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01524": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01529": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01532": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01538": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01540": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01546": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01550": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01551": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01556": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01560": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01564": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01570": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01572": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01576": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01578": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01582": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01586": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01590": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01592": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01594": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01596": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01598": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01600": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01604": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01606": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01608": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01609": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01610": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01612": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01614": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01620": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01622": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01626": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01628": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01630": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01632": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01634": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01644": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01646": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01648": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01660": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01664": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01670": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01672": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01673": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01674": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01676": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01680": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"01694": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"02000": {
+		"bandar": "Kuala Perlis",
+		"negeri": "Perlis"
+	},
+	"02100": {
+		"bandar": "Padang Besar",
+		"negeri": "Perlis"
+	},
+	"02200": {
+		"bandar": "",
+		"negeri": "Perlis"
+	},
+	"02400": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"02450": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"02500": {
+		"bandar": "Kangar",
+		"negeri": "Perlis"
+	},
+	"02600": {
+		"bandar": "Arau",
+		"negeri": "Perlis"
+	},
+	"02607": {
+		"bandar": "Arau",
+		"negeri": "Perlis"
+	},
+	"02609": {
+		"bandar": "Arau",
+		"negeri": "Perlis"
+	},
+	"02700": {
+		"bandar": "Simpang Empat",
+		"negeri": "Perlis"
+	},
+	"02707": {
+		"bandar": "Simpang Empat",
+		"negeri": "Perlis"
+	},
+	"02709": {
+		"bandar": "Simpang Empat",
+		"negeri": "Perlis"
+	},
+	"02800": {
+		"bandar": "Simpang Empat",
+		"negeri": "Perlis"
+	},
+	"05000": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05050": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05100": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05150": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05200": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05250": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05300": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05350": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05400": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05460": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05500": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05502": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05503": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05504": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05505": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05506": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05508": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05512": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05514": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05516": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05517": {
+		"bandar": "",
+		"negeri": "Kedah"
+	},
+	"05518": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05520": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05532": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05534": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05536": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05538": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05550": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05551": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05552": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05556": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05558": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05560": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05564": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05576": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05578": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05580": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05582": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05586": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05590": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05592": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05594": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05600": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05604": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05610": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05612": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05614": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05620": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05621": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05622": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05626": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05628": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05630": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05632": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05644": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05660": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05661": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05664": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05670": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05672": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05673": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05674": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05675": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05676": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05680": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05690": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05696": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05700": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05710": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05720": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"05990": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"06000": {
+		"bandar": "Jitra",
+		"negeri": "Kedah"
+	},
+	"06007": {
+		"bandar": "Jitra",
+		"negeri": "Kedah"
+	},
+	"06009": {
+		"bandar": "Jitra",
+		"negeri": "Kedah"
+	},
+	"06010": {
+		"bandar": "Changlun",
+		"negeri": "Kedah"
+	},
+	"06050": {
+		"bandar": "Bukit Kayu Hitam",
+		"negeri": "Kedah"
+	},
+	"06100": {
+		"bandar": "Kodiang",
+		"negeri": "Kedah"
+	},
+	"06150": {
+		"bandar": "",
+		"negeri": "Kedah"
+	},
+	"06200": {
+		"bandar": "Kepala Batas",
+		"negeri": "Pulau Pinang"
+	},
+	"06207": {
+		"bandar": "",
+		"negeri": "Kedah"
+	},
+	"06209": {
+		"bandar": "",
+		"negeri": "Kedah"
+	},
+	"06250": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"06300": {
+		"bandar": "Kuala Nerang",
+		"negeri": "Kedah"
+	},
+	"06350": {
+		"bandar": "",
+		"negeri": "Kedah"
+	},
+	"06400": {
+		"bandar": "Pendang",
+		"negeri": "Kedah"
+	},
+	"06500": {
+		"bandar": "Langgar",
+		"negeri": "Kedah"
+	},
+	"06507": {
+		"bandar": "Langgar",
+		"negeri": "Kedah"
+	},
+	"06509": {
+		"bandar": "Langgar",
+		"negeri": "Kedah"
+	},
+	"06550": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"06570": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"06600": {
+		"bandar": "Kuala Kedah",
+		"negeri": "Kedah"
+	},
+	"06650": {
+		"bandar": "Simpang Empat, Kedah",
+		"negeri": "Kedah"
+	},
+	"06660": {
+		"bandar": "Alor Setar",
+		"negeri": "Kedah"
+	},
+	"06700": {
+		"bandar": "Pendang",
+		"negeri": "Kedah"
+	},
+	"06707": {
+		"bandar": "Pendang",
+		"negeri": "Kedah"
+	},
+	"06709": {
+		"bandar": "Pendang",
+		"negeri": "Kedah"
+	},
+	"06710": {
+		"bandar": "Pendang",
+		"negeri": "Kedah"
+	},
+	"06720": {
+		"bandar": "Pendang",
+		"negeri": "Kedah"
+	},
+	"06750": {
+		"bandar": "Pendang",
+		"negeri": "Kedah"
+	},
+	"06800": {
+		"bandar": "Kota Sarang Semut",
+		"negeri": "Kedah"
+	},
+	"06900": {
+		"bandar": "",
+		"negeri": "Kedah"
+	},
+	"06910": {
+		"bandar": "",
+		"negeri": "Kedah"
+	},
+	"07000": {
+		"bandar": "",
+		"negeri": "Kedah"
+	},
+	"07007": {
+		"bandar": "",
+		"negeri": "Perlis"
+	},
+	"07009": {
+		"bandar": "",
+		"negeri": "Perlis"
+	},
+	"08000": {
+		"bandar": "Sungai Petani",
+		"negeri": "Kedah"
+	},
+	"08007": {
+		"bandar": "Sungai Petani",
+		"negeri": "Kedah"
+	},
+	"08009": {
+		"bandar": "Sungai Petani",
+		"negeri": "Kedah"
+	},
+	"08010": {
+		"bandar": "Sungai Petani",
+		"negeri": "Kedah"
+	},
+	"08100": {
+		"bandar": "Bedong",
+		"negeri": "Kedah"
+	},
+	"08110": {
+		"bandar": "Bedong",
+		"negeri": "Kedah"
+	},
+	"08200": {
+		"bandar": "",
+		"negeri": "Kedah"
+	},
+	"08210": {
+		"bandar": "",
+		"negeri": "Kedah"
+	},
+	"08300": {
+		"bandar": "Gurun",
+		"negeri": "Kedah"
+	},
+	"08320": {
+		"bandar": "Jeniang",
+		"negeri": "Kedah"
+	},
+	"08330": {
+		"bandar": "Gurun",
+		"negeri": "Kedah"
+	},
+	"08340": {
+		"bandar": "",
+		"negeri": "Kedah"
+	},
+	"08400": {
+		"bandar": "Merbok",
+		"negeri": "Kedah"
+	},
+	"08407": {
+		"bandar": "Merbok",
+		"negeri": "Kedah"
+	},
+	"08409": {
+		"bandar": "Merbok",
+		"negeri": "Kedah"
+	},
+	"08500": {
+		"bandar": "Kota Kuala Muda",
+		"negeri": "Kedah"
+	},
+	"08507": {
+		"bandar": "Kota Kuala Muda",
+		"negeri": "Kedah"
+	},
+	"08509": {
+		"bandar": "Kota Kuala Muda",
+		"negeri": "Kedah"
+	},
+	"08600": {
+		"bandar": "Sungai Petani",
+		"negeri": "Kedah"
+	},
+	"08700": {
+		"bandar": "Jeniang",
+		"negeri": "Kedah"
+	},
+	"08800": {
+		"bandar": "Gurun",
+		"negeri": "Kedah"
+	},
+	"09000": {
+		"bandar": "Daerah Kulim",
+		"negeri": "Kedah"
+	},
+	"09007": {
+		"bandar": "Daerah Kulim",
+		"negeri": "Kedah"
+	},
+	"09009": {
+		"bandar": "Daerah Kulim",
+		"negeri": "Kedah"
+	},
+	"09010": {
+		"bandar": "Daerah Kulim",
+		"negeri": "Kedah"
+	},
+	"09020": {
+		"bandar": "Daerah Kulim",
+		"negeri": "Kedah"
+	},
+	"09100": {
+		"bandar": "Baling",
+		"negeri": "Kedah"
+	},
+	"09110": {
+		"bandar": "",
+		"negeri": "Kedah"
+	},
+	"09200": {
+		"bandar": "",
+		"negeri": "Kedah"
+	},
+	"09300": {
+		"bandar": "Kuala Ketil",
+		"negeri": "Kedah"
+	},
+	"09310": {
+		"bandar": "Kuala Ketil",
+		"negeri": "Kedah"
+	},
+	"09400": {
+		"bandar": "Padang Serai, Kulim",
+		"negeri": "Kedah"
+	},
+	"09410": {
+		"bandar": "Padang Serai, Kulim",
+		"negeri": "Kedah"
+	},
+	"09600": {
+		"bandar": "Lunas",
+		"negeri": "Kedah"
+	},
+	"09700": {
+		"bandar": "",
+		"negeri": "Kedah"
+	},
+	"09800": {
+		"bandar": "",
+		"negeri": "Kedah"
+	},
+	"09810": {
+		"bandar": "",
+		"negeri": "Kedah"
+	}
+}
